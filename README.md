@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Telecomunication Factory 529
-- 🌱 I’m currently learning to be good coder
+- 🌱 I’m currently learning Python，and HTML，CSS
 - 👯 I’m looking to collaborate on 大佬（求带飞）
 - 🤔 I’m looking for help with coding guru
 - 💬 Ask me about ...
